@@ -5,5 +5,3 @@ from my_math.arithmetic import sum, prod, sub, div
 def test_combo():
     assert prod(sum(1, 2), 3) == 9
     assert div(6, sub(5, 3)) == 3
-
-
