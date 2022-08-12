@@ -1,4 +1,4 @@
 .pytest_cache
 __pycache__
-test_venv
+test_env
 *.pyc
